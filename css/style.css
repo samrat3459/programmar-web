@@ -16,7 +16,7 @@
 /* ========= header section =========  */
 
 header {
-    background: linear-gradient(#000000ab, #000000ab), url("/images/slider.jpg");
+    background: linear-gradient(#000000ab, #000000ab), url('/images/slider.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
