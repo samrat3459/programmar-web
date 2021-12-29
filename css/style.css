@@ -13,7 +13,10 @@
     --black: rgb(0, 0, 0);
 }
 
+
 /* ========= header section =========  */
+
+
 
 header {
     background: linear-gradient(#000000ab, #000000ab), url("../images/slider.jpg");
@@ -123,6 +126,8 @@ header {
      margin-bottom: 30px;
      line-height: 80px;
 }
+
+
 .bottom-left p{
     color: var(--white);
     width: 600px;
